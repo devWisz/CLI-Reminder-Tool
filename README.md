@@ -1,6 +1,7 @@
 # CLI-Reminder-Tool
 
-🛎 A simple but powerful command-line reminder tool developed in Go. 
+ 
+ A simple but powerful command-line reminder tool developed in Go. 
 This CLI app allows you to set a reminder for any future time, and it will 
 send you a **desktop notification with alert sound** at the specified time.
 
